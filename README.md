@@ -1,8 +1,10 @@
-<h1 align="center">Hi There, my name is Roel <img src="https://raw.githubusercontent.com/rcleend/rcleend/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, my name is Roel <img src="https://raw.githubusercontent.com/rcleend/rcleend/master/wave.gif" width="30px"></h1>
 <div align="center">
-	[![Linkedin](https://img.shields.io/badge/linked-in-100?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/roel-leendersit/)
-	[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/xizdcJkD)
-	[![Visits Badge](https://badges.pufler.dev/visits/rcleend/rcleend?style=flat-square&logo=gmail&logoColor=white)](https://badges.pufler.dev)
+	<p>
+		[![Linkedin](https://img.shields.io/badge/linked-in-100?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/roel-leendersit/)
+		[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/xizdcJkD)
+		[![Visits Badge](https://badges.pufler.dev/visits/rcleend/rcleend?style=flat-square&logo=gmail&logoColor=white)](https://badges.pufler.dev)
+	</p>
 </div>
 
 
