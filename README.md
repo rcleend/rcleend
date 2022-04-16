@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, my name is Roel <img src="https://raw.githubusercontent.com/rcleend/rcleend/master/wave.gif" width="30px"></h1>
-<div align="center">
-</div>
+
 [![Linkedin](https://img.shields.io/badge/linked-in-100?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/roel-leendersit/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/xizdcJkD)
 [![Visits](https://badges.pufler.dev/visits/rcleend/rcleend?style=flat-square&logo=gmail&logoColor=white)](https://badges.pufler.dev)
@@ -9,7 +8,7 @@
 ## 🔭 General
 
 - 👴 I'm a young and enthusiastic researcher specializing in Deep Learning and NLP
-- 📚 Currently studying the MSc Interaction Technology at the University of Twente
+- 📚 Currently studying MSc Interaction Technology at the University of Twente
 - 🥅 Goals: creating technology that is universally accesible
 
 ## 🔧 Technologies & Tools
