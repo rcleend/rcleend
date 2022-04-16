@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, my name is Roel <img src="https://raw.githubusercontent.com/rcleend/rcleend/master/wave.gif" width="30px"></h1>
+#Hi there, my name is Roel <img src="https://raw.githubusercontent.com/rcleend/rcleend/master/wave.gif" width="30px">
 
 [![Linkedin](https://img.shields.io/badge/linked-in-100?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/roel-leendersit/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/xizdcJkD)
@@ -24,9 +24,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/RickvanBerlo">
-    <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcleend&theme=dark" />
-  </a>
-</div>
+<a href="https://github.com/rcleend">
+	<img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcleend&theme=dark" />
+</a>
 
