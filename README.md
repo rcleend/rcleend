@@ -9,7 +9,7 @@
 
 - 👴 I'm a young and enthusiastic researcher specializing in Deep Learning and NLP
 - 📚 Currently studying MSc Interaction Technology at the University of Twente
-- 🥅 Goals: creating technology that is universally accesible
+- 🥅 Goals: Understanding humans and context with the use of technology
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
