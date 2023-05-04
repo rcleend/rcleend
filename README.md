@@ -7,7 +7,6 @@
 
 - 👴 I'm a young and enthusiastic researcher with a deep interest in HCI, Conversational Agents and Data Science
 - 📚 Currently studying MSc Interaction Technology at the University of Twente
-- 🥅 Goals: Understanding humans and context.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
