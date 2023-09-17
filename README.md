@@ -5,8 +5,9 @@
 
 ## 🔭 General
 
-- 👴 I'm a young and enthusiastic researcher with a deep interest in HCI, Conversational Agents and Data Science
-- 📚 Currently studying MSc Interaction Technology at the University of Twente
+- 🧳 AI Engineer Trainee @ [Luna](getluna.ai).
+- 👴 I'm a young and enthusiastic researcher interested in Generative AI and human-AI collaboration. 
+- 📚 2023 graduate M.Sc Interaction Technology from the University of Twente.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
