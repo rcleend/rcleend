@@ -5,8 +5,8 @@
 
 ## 🔭 General
 
-- 🧳 AI Engineer @ [Luna.ai](getluna.ai).
-- 👴 I'm a young and enthusiastic researcher interested in Generative AI and human-AI collaboration. 
+- 🧳 Full Stack Engineer @ [Luna.ai](luna.ai).
+- 👴 I'm a young and enthusiastic developer interested in Generative AI and human-AI collaboration. 
 - 📚 2023 graduate M.Sc Interaction Technology from the University of Twente.
 
 ## 🔧 Technologies & Tools
