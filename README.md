@@ -7,7 +7,7 @@
 
 - 🧳 Full Stack Engineer @ [Luna.ai](luna.ai).
 - 👴 I'm a young and enthusiastic developer interested in Generative AI and human-AI collaboration. 
-- 📚 2023 graduate M.Sc Interaction Technology from the University of Twente.
+- 📚 Graduate M.Sc Interaction Technology from the University of Twente.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
