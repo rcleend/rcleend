@@ -5,7 +5,7 @@
 
 ## 🔭 General
 
-- 🧳 Full Stack Engineer @ [Scripe.io](scripe.io).
+- 🧳 Full Stack Engineer @ [Scripe.io](https://scripe.io).
 - 👴 I'm a young and enthusiastic developer interested in Generative AI and human-AI collaboration. 
 - 📚 Graduate M.Sc Interaction Technology from the University of Twente.
 
